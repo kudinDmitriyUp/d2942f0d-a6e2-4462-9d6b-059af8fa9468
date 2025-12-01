@@ -45,7 +45,7 @@ export default function ExecutivePage() {
             { text: "Explore Experience", href: "about" },
             { text: "Contact", href: "contact" }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764625484491-av4rwz3i.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764626140791-3o0eyynz.jpg"
           imageAlt="Sailing on ocean representing journey and leadership"
           frameStyle="card"
         />
